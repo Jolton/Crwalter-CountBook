@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/chris/.android/build-cache/29ab59dff3b48ee31f58865b0d6ca35cfdfde45d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/chris/.android/build-cache/7b637a335442767c5679f735b33c16772c0b5547/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/chris/.android/build-cache/b56f50ffcd75d57509a8c4ddf3bc832ded4a784f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/chris/.android/build-cache/a28439fb70af1ef1bb4f9df7a3c108b4d8192b0a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/chris/.android/build-cache/edd81c3a15396468f94f77ef021160adb40fd537/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/chris/.android/build-cache/5c5672d6f394fc52e468e172f9b984730e44b234/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/chris/.android/build-cache/b33ebfc67079d6a9243ebcd2e2e3696935d529c8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/chris/.android/build-cache/485eece1b1eb6c0cdd0a5f05b42b3cc874393bff/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/chris/.android/build-cache/7670bad4a15b3c8691917c27caa25ff9dcfa9f66/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /Users/chris/.android/build-cache/842c1549481819919f67cdf0698fa0cb6ca99fbe/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.chris.crwalter_countbook.Counter_List
+ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.chris.crwalter_countbook.Edit_counter
+ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/chris/.android/build-cache/29ab59dff3b48ee31f58865b0d6ca35cfdfde45d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/chris/.android/build-cache/7b637a335442767c5679f735b33c16772c0b5547/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/chris/.android/build-cache/b56f50ffcd75d57509a8c4ddf3bc832ded4a784f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/chris/.android/build-cache/a28439fb70af1ef1bb4f9df7a3c108b4d8192b0a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/chris/.android/build-cache/edd81c3a15396468f94f77ef021160adb40fd537/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/chris/.android/build-cache/5c5672d6f394fc52e468e172f9b984730e44b234/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/chris/.android/build-cache/b33ebfc67079d6a9243ebcd2e2e3696935d529c8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/chris/.android/build-cache/485eece1b1eb6c0cdd0a5f05b42b3cc874393bff/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/chris/.android/build-cache/7670bad4a15b3c8691917c27caa25ff9dcfa9f66/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /Users/chris/.android/build-cache/842c1549481819919f67cdf0698fa0cb6ca99fbe/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/chris/.android/build-cache/29ab59dff3b48ee31f58865b0d6ca35cfdfde45d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chris/Documents/University/Computer courses/CMPUT-301 intro to software engg/Assignment 1/Crwalter-CountBook/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/chris/.android/build-cache/29ab59dff3b48ee31f58865b0d6ca35cfdfde45d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/chris/.android/build-cache/7b637a335442767c5679f735b33c16772c0b5547/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/chris/.android/build-cache/b56f50ffcd75d57509a8c4ddf3bc832ded4a784f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/chris/.android/build-cache/a28439fb70af1ef1bb4f9df7a3c108b4d8192b0a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/chris/.android/build-cache/edd81c3a15396468f94f77ef021160adb40fd537/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/chris/.android/build-cache/5c5672d6f394fc52e468e172f9b984730e44b234/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/chris/.android/build-cache/b33ebfc67079d6a9243ebcd2e2e3696935d529c8/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/chris/.android/build-cache/485eece1b1eb6c0cdd0a5f05b42b3cc874393bff/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/chris/.android/build-cache/7670bad4a15b3c8691917c27caa25ff9dcfa9f66/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/chris/.android/build-cache/29ab59dff3b48ee31f58865b0d6ca35cfdfde45d/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/chris/.android/build-cache/29ab59dff3b48ee31f58865b0d6ca35cfdfde45d/output/AndroidManifest.xml:26:9-47
