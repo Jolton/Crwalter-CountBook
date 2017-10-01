@@ -142,6 +142,14 @@ public class Counter_List extends AppCompatActivity {
             }
         }
     }
+
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+
+        Counter.saveCountersToFile(FILENAME, counterArray, this);
+    }
 }
 
 
